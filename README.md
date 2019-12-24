@@ -30,9 +30,11 @@ Download the environment from one of the links below.  You need only select the 
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
- 
-This personal project was created in Windows 10 and worked well in that environment. It is not guaranteed success in other OS environments.
+Please place `Navigation_solution.ipynb` next to `banana.exe(app)` in the `p1_navigation/`. This assignment was created in Windows 10 and worked well in that environment. It is not guaranteed success in other OS environments.
 
 
 ### Instructions
-Please place `Navigation_solution.ipynb` next to `banana.exe(app)` in in the `p1_navigation/`.
+The environment, the problem and implementation are available on the `Navigation_solution.ipynb' notebook.
+The summary is provided on the `Report.html'
+
+
