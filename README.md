@@ -34,7 +34,6 @@ Please place `Navigation_solution.ipynb` next to `banana.exe(app)` in the `p1_na
 
 
 ### Instructions
-The environment, the problem and implementation are available on the `Navigation_solution.ipynb' notebook.
-The summary is provided on the `Report.html'
+There is `Navigation_solution.ipynb`notebook being available for the problem, the environment and the implementation. The summary is provided on the `Report.html'.
 
 
