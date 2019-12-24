@@ -8,7 +8,7 @@
 
 This is the first project of the Deep Reinforcement Learning Nanodegree.
 
-The main goal is to develop algorithms that instruct an agent who knows nothing like a baby as an experienced banana picker.
+The main goal is to develop algorithms that train an agent who is like a baby as an smart banana picker.
 
 ![Trained Agent][image1]
 
@@ -35,4 +35,4 @@ This personal project was created in Windows 10 and worked well in that environm
 
 
 ### Instructions
-Please place `Navigation_solution.ipynb` next to 'banana.exe' in in the `p1_navigation/`. Then, it will goes well.
+Please place `Navigation_solution.ipynb` next to `banana.exe(app)` in in the `p1_navigation/`.
